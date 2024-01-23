@@ -1,0 +1,17 @@
+1. Admin panel:
+ https://admin-dev.bridgemate-app.com/#/login 
+This is for us administrators to keep control of the users of our app (more on that later)
+
+2. Club admin panel:
+ https://clubadmin-dev.bridgemate.com/#/login 
+This is where our clubs (our direct customers) log in and manage their details.
+user:
+nl21000006
+pw:
+password
+ the hashed version of "password" is 
+X03MO1qnZdYdgyfeuILPmQ=="
+
+3. Bridgemate Play user portal
+ https://www-dev.bridgemate.club/#/login 
+This is where players who play online can log in and join online games.
